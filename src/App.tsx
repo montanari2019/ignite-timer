@@ -5,11 +5,11 @@ import { Button } from './components/Button';
 function App() {
   return (
     <div>
-      <Button color="primary"/>
-      <Button color="danger"/>
-      <Button color="secondary"/>
-      <Button color="warning"/>
-      <Button color="success"/>
+      <Button variant="primary"/>
+      <Button variant="danger"/>
+      <Button variant="secondary"/>
+      <Button variant="warning"/>
+      <Button variant="success"/>
       <Button/>
     </div>
   );
