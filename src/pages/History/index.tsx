@@ -28,8 +28,8 @@ export function History() {
               return (
                 <tr key={index.id}>
                   <td>{index.taks}</td>
-                  <td>{index.minutesAmount}</td>
-                  <td>{formatDistanceToNow(index.dateStart, {
+                  <td>{index.minutesAmount} min</td>
+                  <td>{formatDistanceToNow(new Date(index.dateStart), {
                     addSuffix: true,
                     locale: ptBR
 

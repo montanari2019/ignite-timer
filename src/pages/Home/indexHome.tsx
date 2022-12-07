@@ -3,7 +3,7 @@ import { FormProvider, useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import * as zod from "zod";
 import { HomeContainer, StartCountDownButton, StopCountDownButton} from "./styleHome";
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext, useEffect, useState } from "react";
 
 import { NewCycleForm } from "./components/NewCycleForm/indexNewForm";
 import { CountDown } from "./components/CountDown/indexCountDown";
@@ -44,10 +44,13 @@ export function Home() {
 
  
   function handleCreateNewCycle(data: NewCycleFormData){
+    
     CreateNewCycle(data)
     reset()
 
   }
+
+  
 
  
   return (
@@ -61,9 +64,6 @@ export function Home() {
 
 
           <CountDown />
-
-
-      
 
         {activeCycle ? (
           <StopCountDownButton onClick={InterruptCycle} type="button">
