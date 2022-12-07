@@ -1,5 +1,5 @@
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img style="max-width: 320px " src="./public/ignite-logo.svg" />
 </div>
 <h1 align="center" >Ignite Timer</h1 >
