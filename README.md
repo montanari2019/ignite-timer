@@ -117,5 +117,5 @@
 # Contato
 
 <p>Linkedin <a target="_blank" href="https://www.linkedin.com/in/ikaro-montanari-5aa120208/">Ikaro Montanari</a> </p>
-<p>Instagram  <a target="_blank" href="https://www.instagram.com/ikaro_montanari/">@ikaro_montanari</a> </p>
+<p>Instagram  <a target="_blank" href="https://www.instagram.com/ikaro.montanari/">@ikaro_montanari</a> </p>
 <p>Telefone <a target="_blank" href="https://api.whatsapp.com/send?phone=5569993569547&text=Ol%C3%A1%20ikaro">(69) 99356-9547</a> </p>
