@@ -119,9 +119,11 @@
 
 # Licença / License
 
-<p dir="auto">Distribuído sob a licença MIT. Veja <code>LICENSE</code> para mais informações.</p>
--------------------------------------
 <p dir="auto">Distributed under the MIT license. See <code>LICENSE</code> for more information.</p>
+-------------------------------------
+
+<p dir="auto">Distribuído sob a licença MIT. Veja <code>LICENSE</code> para mais informações.</p>
+
 
 # Autor / Author
 
