@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img style="max-width: 320px " src="./public/ignite-logo.svg" />
+    <img style="width: 420px " src="./public/ignite-logo.svg" />
 </div>
 <h1 align="center" >Ignite Timer</h1 >
 
