@@ -25,6 +25,8 @@
 
 <p dir="auto">Project was developed during the ignite course given by <a target="_blank" href="https://www.rocketseat.com.br/">Rocketseat💜</a>, it is about of a timer where we add a task and determine a deadline to finish it, very similar to the pomodoro technique. <br/> The application adds time in multiples of 5 (minutes) with the maximum allowed of 60 minutes for any task, it is possible to view history and use it even in the background.</p>
 
+<p> <a target="_blank" href="https://montanari-timer.onrender.com/">Click Here to access the application</a> </p>
+
 -------------------------------------------------------------------------------------------------
 
 <p dir="auto">Projeto foi desenvolvido durante o curso ignite ministrado pela <a target="_blank" href="https://www.rocketseat.com.br/">Rocketseat💜</a>, se trata de um timer onde adicionamos uma tarefa e determinamos um prazo para finalizar bem semelhante a técnica de pomodoro. <br/> A aplicação adiciona tempo em múltiplos de 5(minutos) com o máximo permitido de 60 minutos para alguma tarefa, nela é possível visualizar históricos e utilizar mesmo em segundo plano.</p>
