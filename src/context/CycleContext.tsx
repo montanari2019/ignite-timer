@@ -20,6 +20,11 @@ export function CycleContextComponent({ children }: IContextProviderProps) {
     const storageStateAsJSON = localStorage.getItem("@ignite-timer:cycles-state-1.0.0")
     if (storageStateAsJSON) {
       return JSON.parse(storageStateAsJSON)
+    }else{
+      return {
+        cycles: [],
+        activeCycleId: null
+      }
     }
   })
 
